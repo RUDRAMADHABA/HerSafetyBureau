@@ -59,12 +59,9 @@ export default function Home() {
                   </div>
                   <h6 className="text-xl font-semibold">General Diary</h6>
                   <p className="mt-2 mb-4 text-gray-800">
-                    A general diary (GD) entry or a daily diary entry is made
+                    A general diary entry or a daily diary entry is made
                     when any kind of complaint is lodged and the police enter
-                    the details in their records. Thereafter, if the police
-                    believe that there is some prima facie evidence of a
-                    cognizable offense being committed, it is registered as an
-                    FIR.
+                    the details in their records.Hence if police feels its legit then an FIR is lodged.
                   </p>
                 </div>
               </div>
@@ -88,11 +85,9 @@ export default function Home() {
                   </div>
                   <h6 className="text-xl font-semibold">Crime Report</h6>
                   <p className="mt-2 mb-4 text-gray-800">
-                    In many cases Police solves a crime with the help of phone
-                    calls from people like you. Your Call DOES MAKE A
-                    DIFFERENCE. Minor crime committed in can also be reported
+                    Crime committed in can also be reported
                     over the Internet. The system is designed to forward
-                    information to the relevant police force.
+                    information to the relevant police force.It stores the committed crime's data.
                   </p>
                 </div>
               </div>
@@ -116,11 +111,7 @@ export default function Home() {
                   </div>
                   <h6 className="text-xl font-semibold">Missing Report</h6>
                   <p className="mt-2 mb-4 text-gray-800">
-                    Each year about 1,000 people are reported missing to Police.
-                    The good news however is that the Police Missing Persons
-                    Unit is here to help find your loved one. Most of the
-                    missing persons reported are located, with more than half
-                    simply failing to tell their families where they are.
+                     Many people go on missing every year this reports collects all data of missing people and hence police takes action on it.
                   </p>
                 </div>
               </div>
