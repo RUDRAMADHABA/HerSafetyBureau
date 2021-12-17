@@ -45,12 +45,12 @@ const generalDiary = () => {
                   </button>
                 </div> */}
 
-                <div className="flex mt-7 items-center text-center">
-                  <hr className="border-gray-300 border-1 w-full rounded-md" />
+                <div className="flex">
+                  
                   <label className="block font-medium text-sm text-gray-800 w-full">
-                    If you are facing any trouble in 
+                    If you have been witnessed any crime scene or you yourself have been through any serious issue then be frank and lodge a complaint here.
                   </label>
-                  <hr className="border-gray-300 border-1 w-full rounded-md" />
+                  
                 </div>
 
                 <div className="flex mt-7 justify-center w-full">

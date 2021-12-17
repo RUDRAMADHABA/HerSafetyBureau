@@ -48,7 +48,7 @@ const generalDiary = () => {
                 <div className="flex ">
                   
                   <label className="block font-medium text-sm text-gray-800 w-full">
-                    If you are facing any issue in public places or you found yourself in any awkward situations then feel free to file a complain here.
+                    If you are facing any issue in public places or you found yourself in any awkward situations then feel free to file a complaint here.
                   </label>
                   
                 </div>
