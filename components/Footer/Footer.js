@@ -23,17 +23,18 @@ const Footer = () => {
           <div className="flex flex-wrap text-left lg:text-left">
             <div className="w-full lg:w-6/12 px-4">
               <h4 className="text-2xl font-bold text-blueGray-700">
-                ABOUT US
+               Contact Us
                 
               </h4>
               <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
-              
+              We are a group of developers aiming for a secure society for women.
               </h5>
               <div className="mt-6 lg:mb-0 mb-6">
                 <button
                   className="text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
+                  
                   <FaGithub size="1x" />
                 </button>
               </div>
