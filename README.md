@@ -5,6 +5,6 @@ A responsive site developed for women and girls out there. This is the portal wh
 <br>
 It provides an environment for all the women to get their problems solved. All the report records can be accessed by the police staff. The user can easily log in and file a complaint of any of the above categories. Also, they can track their record using the unique identification number provided to them after filing complaint.<br>
 <br>
-<p align="left"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p> <br>
+<p align="right"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p> <br>
 <br>
 ![image](https://github.com/RUDRAMADHABA/HerSafetyBureau/blob/main/hersafetybureau/pic2.png)
