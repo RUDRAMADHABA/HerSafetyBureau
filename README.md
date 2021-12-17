@@ -7,4 +7,4 @@ It provides an environment for all the women to get their problems solved. All t
 <br>
 <p align="right"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p> <br>
 <br>
-![image](https://github.com/RUDRAMADHABA/HerSafetyBureau/blob/main/hersafetybureau/pic2.png)
+![image](https://github.com/RUDRAMADHABA/HerSafetyBureau/blob/main/hersafetybureau/pic2.png)<br>
