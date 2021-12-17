@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>E-bureau</title>
+        <title>Her Safety Bureau</title>
         <link
           rel="stylesheet"
           href="https://demos.creative-tim.com/notus-js/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css"
@@ -73,14 +73,14 @@ export default function Home() {
                     <i className="fas fa-award"></i>
                   </div>
                   <h6 className="text-xl font-semibold">General Diary</h6>
-                  {/* <p className="mt-2 mb-4 text-gray-800">
+                  <p className="mt-2 mb-4 text-gray-800">
                     A general diary (GD) entry or a daily diary entry is made
                     when any kind of complaint is lodged and the police enter
                     the details in their records. Thereafter, if the police
                     believe that there is some prima facie evidence of a
                     cognizable offense being committed, it is registered as an
                     FIR.
-                  </p> */}
+                  </p>
                 </div>
               </div>
             </div>
@@ -102,13 +102,13 @@ export default function Home() {
                     <i className="fas fa-retweet"></i>
                   </div>
                   <h6 className="text-xl font-semibold">Crime Report</h6>
-                  {/* <p className="mt-2 mb-4 text-gray-800">
+                  <p className="mt-2 mb-4 text-gray-800">
                     In many cases Police solves a crime with the help of phone
                     calls from people like you. Your Call DOES MAKE A
                     DIFFERENCE. Minor crime committed in can also be reported
                     over the Internet. The system is designed to forward
                     information to the relevant police force.
-                  </p> */}
+                  </p>
                 </div>
               </div>
             </div>
@@ -130,13 +130,13 @@ export default function Home() {
                     <i className="fas fa-fingerprint"></i>
                   </div>
                   <h6 className="text-xl font-semibold">Missing Report</h6>
-                  {/* <p className="mt-2 mb-4 text-gray-800">
+                  <p className="mt-2 mb-4 text-gray-800">
                     Each year about 1,000 people are reported missing to Police.
                     The good news however is that the Police Missing Persons
                     Unit is here to help find your loved one. Most of the
                     missing persons reported are located, with more than half
                     simply failing to tell their families where they are.
-                  </p> */}
+                  </p>
                 </div>
               </div>
             </div>

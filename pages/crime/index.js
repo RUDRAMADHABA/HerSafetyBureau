@@ -48,7 +48,7 @@ const generalDiary = () => {
                 <div className="flex mt-7 items-center text-center">
                   <hr className="border-gray-300 border-1 w-full rounded-md" />
                   <label className="block font-medium text-sm text-gray-800 w-full">
-                    General User
+                    If you are facing any trouble in 
                   </label>
                   <hr className="border-gray-300 border-1 w-full rounded-md" />
                 </div>

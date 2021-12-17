@@ -4,9 +4,9 @@ import Link from 'next/link'
 const Header = () => {
   return (
     <>
-      <div className=" flex flex-row items-center p-1 justify-between bg-white shadow-xs">
-        <div className="ml-8 text-lg text-gray-700 hidden md:flex py-3">
-          <Link href="/">HerSafety-Bureau</Link>
+      <div className=" flex flex-row items-center p-1 justify-between bg-black shadow-xs">
+        <div className="ml-8 text-lg text-white hidden md:flex py-3">
+          <Link href="/">Her Safety Bureau</Link>
         </div>
         <div className="flex flex-row-reverse mr-4 ml-4 md:hidden">
           <i className="fas fa-bars"></i>

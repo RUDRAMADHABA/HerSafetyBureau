@@ -23,25 +23,14 @@ const Footer = () => {
           <div className="flex flex-wrap text-left lg:text-left">
             <div className="w-full lg:w-6/12 px-4">
               <h4 className="text-2xl font-bold text-blueGray-700">
-                REDEFINING HER SAFETY WITH TECHNOLOGY
+                ABOUT US
+                
               </h4>
               <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
-                In the era of women empowerment, our safety solution ensures women
-                in danger never fail to get the help needed.
+              A responsive site developed for women and girls out there. This is the portal where you can make inquiry or report. To make the report all you have to do is log in and file a complaint of any category and to address inquiries.
+              It provides an environment for all the women to get their problems solved. All the report records can be accessed by the police staff. The user can easily log in and file a complaint of any of the above categories. Also, they can track their record using the unique identification number provided to them after filing complaint.
               </h5>
               <div className="mt-6 lg:mb-0 mb-6">
-                <button
-                  className="text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-                  type="button"
-                >
-                  <IoLogoTwitter size="1x" style={{ color: '#58A7DC' }} />
-                </button>
-                <button
-                  className="text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-                  type="button"
-                >
-                  <FaFacebook size="1x" style={{ color: '#1877F2' }} />
-                </button>
                 <button
                   className="text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
