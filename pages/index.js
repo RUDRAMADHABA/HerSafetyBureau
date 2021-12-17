@@ -21,10 +21,6 @@ export default function Home() {
             className="absolute top-0 w-full h-full bg-center bg-cover"
             id={styles.banner}
           >
-            {/* <span
-              id="blackOverlay"
-              className="w-full h-full absolute opacity-75 bg-black"
-            ></span> */}
           </div>
           <div className="container relative mx-auto">
             <div className="items-center flex flex-wrap">
@@ -42,17 +38,6 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden h-70-px">
-            <svg
-              className="absolute bottom-0 overflow-hidden"
-              xmlns="http://www.w3.org/2000/svg"
-              preserveAspectRatio="none"
-              version="1.1"
-              viewBox="0 0 2560 100"
-              x="0"
-              y="0"
-            ></svg>
-          </div>
         </div>
       </section>
 
@@ -65,7 +50,7 @@ export default function Home() {
               id={styles.cards}
             >
               <div
-                className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg"
+                className="relative flex flex-col min-w-0 break-words bg-red-200 w-full mb-8 shadow-lg rounded-lg"
                 id={styles.eachCard}
               >
                 <div className="px-4 py-5 flex-auto">
@@ -91,7 +76,7 @@ export default function Home() {
               id={styles.cards}
             >
               <div
-                className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg"
+                className="relative flex flex-col min-w-0 break-words bg-blue-200 w-full mb-8 shadow-lg rounded-lg"
                 id={styles.eachCard}
               >
                 <div className="px-4 py-5 flex-auto">
@@ -119,7 +104,7 @@ export default function Home() {
               id={styles.cards}
             >
               <div
-                className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg"
+                className="relative flex flex-col min-w-0 break-words bg-green-200 w-full mb-8 shadow-lg rounded-lg"
                 id={styles.eachCard}
               >
                 <div className="px-4 py-5 flex-auto">
@@ -148,19 +133,13 @@ export default function Home() {
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center">
             <div className="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-78">
-              <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-green-700">
+              <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-blueGray-700">
                 <img
                   alt="..."
-                  src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=700&amp;q=80"
+                  src="https://www.linkpicture.com/q/Women-s-Safety-in-the-Workplace.png"
                   className="w-full align-middle rounded-t-lg"
                 />
                 <blockquote className="relative p-8 mb-4">
-                  <svg
-                    preserveAspectRatio="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 583 95"
-                    className="absolute left-0 w-full block h-95-px -top-94-px"
-                  ></svg>
 
                   <h4 className="text-xl font-bold text-white">
                     Design specially to manage crime in a more efficient way
@@ -263,18 +242,18 @@ export default function Home() {
                 ABOUT US
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-              A responsive site developed for women and girls out there. This is the portal where you can make inquiry or report. To make the report all you have to do is log in and file a complaint of any category and to address inquiries.
-              It provides an environment for all the women to get their problems solved. 
+                A responsive site developed for women and girls out there. This is the portal where you can make inquiry or report. To make the report all you have to do is log in and file a complaint of any category and to address inquiries.
+                It provides an environment for all the women to get their problems solved.
               </p>
               <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-              All the report records can be accessed by the police staff. The user can easily log in and file a complaint of any of the above categories. Also, they can track their record using the unique identification number provided to them after filing complaint.
+                All the report records can be accessed by the police staff. The user can easily log in and file a complaint of any of the above categories. Also, they can track their record using the unique identification number provided to them after filing complaint.
               </p>
             </div>
             <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
-              <div className="relative flex flex-col min-w-0 break-words w-full mb-2 shadow-lg rounded-lg bg-green-700">
+              <div className="relative flex flex-col min-w-0 break-words w-full mb-2 shadow-lg rounded-lg bg-blueGray-700">
                 <img
                   alt="..."
-                  src="https://user-images.githubusercontent.com/70858557/134803954-9832e9f7-4183-4405-9c76-cbac80ee5b5b.jpg"
+                  src="https://www.linkpicture.com/q/women-safety-in-india-is-a-struggle-e1606842436505_1.jpg"
                   className="w-full align-middle rounded-t-lg"
                 />
                 <blockquote className="relative p-8 mb-4">
@@ -303,7 +282,7 @@ export default function Home() {
         </div>
       </section>
 
-     
+
       <Footer />
     </>
   )
