@@ -9,9 +9,6 @@ const Header = () => {
           <div><a href="/"><img src="https://www.linkpicture.com/q/Untitled_design-removebg-preview_4.png" width={80}></img></a></div>
           <div className='pt-5 px-4 text-2xl text-white font-sans'>herSafety-Bureau</div>
         </div>
-        <div className="flex flex-row-reverse mr-4 ml-4 md:hidden">
-          <i className="fas fa-bars"></i>
-        </div>
       </div>
     </>
   )
