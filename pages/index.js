@@ -29,11 +29,6 @@ export default function Home() {
                   <h1 className="text-white font-semibold text-6xl">
                     Women Safety Bureau.
                   </h1>
-                  {/* <p className="mt-6 text-lg text-white text-blueGray-200">
-                    This is an E- platform used by both public and police for
-                    making Crime Management easier. This includes general diary,
-                    crime reports and reporting of missing person.
-                  </p> */}
                 </div>
               </div>
             </div>
@@ -50,7 +45,7 @@ export default function Home() {
               id={styles.cards}
             >
               <div
-                className="relative flex flex-col min-w-0 break-words bg-red-200 w-full mb-8 shadow-lg rounded-lg"
+                className="relative flex flex-col min-w-0 break-words bg-red-200 border-4 border-red-400 w-full mb-8 shadow-lg rounded-2xl"
                 id={styles.eachCard}
               >
                 <div className="px-4 py-5 flex-auto">
@@ -73,7 +68,7 @@ export default function Home() {
               id={styles.cards}
             >
               <div
-                className="relative flex flex-col min-w-0 break-words bg-blue-200 w-full mb-8 shadow-lg rounded-lg"
+                className="relative flex flex-col min-w-0 break-words bg-blue-200 border-4 border-blue-400 w-full mb-8 shadow-lg rounded-2xl"
                 id={styles.eachCard}
               >
                 <div className="px-4 py-5 flex-auto">
@@ -99,7 +94,7 @@ export default function Home() {
               id={styles.cards}
             >
               <div
-                className="relative flex flex-col min-w-0 break-words bg-green-200 w-full mb-8 shadow-lg rounded-lg"
+                className="relative flex flex-col min-w-0 break-words bg-green-200 border-4 border-green-400 w-full mb-8 shadow-lg rounded-2xl"
                 id={styles.eachCard}
               >
                 <div className="px-4 py-5 flex-auto">
