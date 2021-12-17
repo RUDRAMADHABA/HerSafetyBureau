@@ -106,7 +106,7 @@ export default function Home() {
                   </div>
                   <h6 className="text-xl font-semibold">Missing Report</h6>
                   <p className="mt-2 mb-4 text-gray-800">
-                     Many people go on missing every year this reports collects all data of missing people and hence police takes action on it.
+                     Many people go on missing every year this reports collects all data of missing people and hence police takes action on it. Most of the missing persons reported are located, with more than half simply failing to tell their families where they are.
                   </p>
                 </div>
               </div>
