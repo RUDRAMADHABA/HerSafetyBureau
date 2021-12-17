@@ -5,22 +5,13 @@ const Header = () => {
   return (
     <>
       <div className=" flex flex-row items-center p-1 justify-between bg-black shadow-xs">
-        <div className="ml-8 text-lg text-white hidden md:flex py-3">
-          <Link href="/">Her Safety Bureau</Link>
+        <div className="flex flex-row">
+          <div><a href="/"><img src="https://www.linkpicture.com/q/Untitled_design-removebg-preview_4.png" width={80}></img></a></div>
+          <div className='pt-5 px-4 text-2xl text-white font-sans'>herSafety-Bureau</div>
         </div>
         <div className="flex flex-row-reverse mr-4 ml-4 md:hidden">
           <i className="fas fa-bars"></i>
         </div>
-        {/* <div className="flex flex-row-reverse mr-8 md:flex">
-          <div className="text-white text-center bg-gray-400 px-4 py-2 m-2">
-            Login
-          </div>
-          <Link href="/signup">
-            <a className="text-white text-center bg-gray-400 px-4 py-2 m-2">
-              Sign Up
-            </a>
-          </Link>
-        </div> */}
       </div>
     </>
   )

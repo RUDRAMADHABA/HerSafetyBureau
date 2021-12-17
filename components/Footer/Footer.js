@@ -1,6 +1,5 @@
 import React from 'react'
-import { IoLogoTwitter } from 'react-icons/io'
-import { FaFacebook, FaGithub } from 'react-icons/fa'
+import { FaFacebook, FaGithub, FaLinkedinIn, FaTwitter } from 'react-icons/fa'
 import Link from 'next/link'
 
 const Footer = () => {
@@ -18,24 +17,41 @@ const Footer = () => {
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
         rel="stylesheet"
       />
-      <footer className="relative bg-blueGray-200 pt-8 pb-6">
+      <footer className="relative pt-8 pb-6">
         <div className="container mx-auto px-4">
           <div className="flex flex-wrap text-left lg:text-left">
             <div className="w-full lg:w-6/12 px-4">
               <h4 className="text-2xl font-bold text-blueGray-700">
-               Contact Us
-                
+                CONTACT US
               </h4>
-              <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
-              We are a group of developers aiming for a secure society for women.
-              </h5>
               <div className="mt-6 lg:mb-0 mb-6">
+                <a href="#">
+                  <button
+                    className="text-blue-600 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                    type="button"
+                  >
+                    <FaFacebook size={30} />
+                  </button>
+                </a>
+                <a href='https://github.com/RUDRAMADHABA/HerSafetyBureau'>
+                  <button
+                    className="text-blueGray-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                    type="button"
+                  >
+                    <FaGithub size={30} />
+                  </button>
+                </a>
                 <button
-                  className="text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                  className="text-blue-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
-                  
-                  <FaGithub size="1x" />
+                  <FaLinkedinIn size={30} />
+                </button>
+                <button
+                  className="text-blue-400 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                  type="button"
+                >
+                  <FaTwitter size={30} />
                 </button>
               </div>
             </div>
