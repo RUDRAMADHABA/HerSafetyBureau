@@ -45,7 +45,7 @@ export default function Home() {
               id={styles.cards}
             >
               <div
-                className="relative flex flex-col min-w-0 break-words bg-red-200 border-4 border-red-400 w-full mb-8 shadow-lg rounded-lg"
+                className="relative flex flex-col min-w-0 break-words bg-red-200 border-4 border-red-400 w-full mb-8 shadow-lg rounded-2xl"
                 id={styles.eachCard}
               >
                 <div className="px-4 py-5 flex-auto">
@@ -71,7 +71,7 @@ export default function Home() {
               id={styles.cards}
             >
               <div
-                className="relative flex flex-col min-w-0 break-words bg-blue-200 border-4 border-blue-400 w-full mb-8 shadow-lg rounded-lg"
+                className="relative flex flex-col min-w-0 break-words bg-blue-200 border-4 border-blue-400 w-full mb-8 shadow-lg rounded-2xl"
                 id={styles.eachCard}
               >
                 <div className="px-4 py-5 flex-auto">
@@ -99,7 +99,7 @@ export default function Home() {
               id={styles.cards}
             >
               <div
-                className="relative flex flex-col min-w-0 break-words bg-green-200 border-4 border-green-400 w-full mb-8 shadow-lg rounded-lg"
+                className="relative flex flex-col min-w-0 break-words bg-green-200 border-4 border-green-400 w-full mb-8 shadow-lg rounded-2xl"
                 id={styles.eachCard}
               >
                 <div className="px-4 py-5 flex-auto">
