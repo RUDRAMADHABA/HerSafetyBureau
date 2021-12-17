@@ -27,8 +27,7 @@ const Footer = () => {
                 
               </h4>
               <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
-              A responsive site developed for women and girls out there. This is the portal where you can make inquiry or report. To make the report all you have to do is log in and file a complaint of any category and to address inquiries.
-              It provides an environment for all the women to get their problems solved. All the report records can be accessed by the police staff. The user can easily log in and file a complaint of any of the above categories. Also, they can track their record using the unique identification number provided to them after filing complaint.
+              
               </h5>
               <div className="mt-6 lg:mb-0 mb-6">
                 <button

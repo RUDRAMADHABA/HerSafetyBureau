@@ -144,7 +144,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* <section className="relative pt-16 bg-blueGray-50">
+      <section className="relative pt-16 bg-blueGray-50">
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center">
             <div className="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-78">
@@ -260,19 +260,14 @@ export default function Home() {
                 <i className="fas fa-user-friends text-xl"></i>
               </div>
               <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                The Duties of the Citizen
+                ABOUT US
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                Every citizen is expected to inform the Police about the
-                commission or likely commission of a cognizable offence. They
-                are legally bound to follow reasonable directions given by a
-                Police Officer/Policeman in Uniform. Sheltering of proclaimed
-                offenders is a serious offence.
+              A responsive site developed for women and girls out there. This is the portal where you can make inquiry or report. To make the report all you have to do is log in and file a complaint of any category and to address inquiries.
+              It provides an environment for all the women to get their problems solved. 
               </p>
               <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                The citizen is supposed to render necessary assistance to the
-                Police in the discharge of their lawful duties. All enlightened
-                citizens must help in maintaining a pollution free environment.
+              All the report records can be accessed by the police staff. The user can easily log in and file a complaint of any of the above categories. Also, they can track their record using the unique identification number provided to them after filing complaint.
               </p>
             </div>
             <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -404,7 +399,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-                </section>*/}
+                </section>
       <Footer />
     </>
   )
