@@ -2,7 +2,7 @@
 A responsive site developed for women and girls out there. This is the portal where you can make inquiry or report. To make the report all you have to do is log in and file a complaint of any category and to address inquiries.<br>
 <br>
 
-<p align="center"><img width=35% src="https://github.com/RUDRAMADHABA/HerSafetyBureau/blob/main/hersafetybureau/pic1.jpg"></p> <br>
+<p align="left"><img width=35% src="https://github.com/RUDRAMADHABA/HerSafetyBureau/blob/main/hersafetybureau/pic1.jpg"></p> <br>
 
 <br>
 
@@ -11,7 +11,7 @@ It provides an environment for all the women to get their problems solved. All t
 
 <br>
 
-<p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p> <br>
+<p align="right"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p> <br>
 
 <br>
 
