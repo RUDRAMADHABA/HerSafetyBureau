@@ -11,6 +11,7 @@ A responsive site developed for women and girls out there. This is the portal wh
 <br>
 <p align="center"><img width=80% src="https://github.com/RUDRAMADHABA/HerSafetyBureau/blob/main/Images/Her%20Safety%20Bureau%20-%20Google%20Chrome%2017-12-2021%2023_51_59.png">
 <p align="left"><img width=35% src="https://user-images.githubusercontent.com/70858557/146534333-9f4f348c-21f4-45df-ba00-425b908ccd2b.jpg"></p>
+<p align="center"><img width=80% src="https://github.com/RUDRAMADHABA/HerSafetyBureau/blob/main/Images/Her%20Safety%20Bureau%20-%20Google%20Chrome%2017-12-2021%2023_47_23.png">
 <br>
 <h2>What A Wonderful Sight, When Everyone Is Treated Right!</h2>
 It provides an environment for all the women to get their problems solved. All the report records can be accessed by the police staff. The user can easily log in and file a complaint of any of the above categories. Also, they can track their record using the unique identification number provided to them after filing complaint.<br>
