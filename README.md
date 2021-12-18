@@ -8,6 +8,7 @@ A responsive site developed for women and girls out there. This is the portal wh
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <br>
+<br>
 <p align="left"><img width=35% src="https://user-images.githubusercontent.com/70858557/146534333-9f4f348c-21f4-45df-ba00-425b908ccd2b.jpg"></p> <br>
 
 <br>
